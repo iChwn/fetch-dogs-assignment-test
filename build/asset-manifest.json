@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.86501cf0.css",
+    "main.js": "/static/js/main.adaf8b10.js",
+    "static/js/249.dacbb845.chunk.js": "/static/js/249.dacbb845.chunk.js",
+    "static/js/496.ce91fc51.chunk.js": "/static/js/496.ce91fc51.chunk.js",
+    "static/media/fetch logo.png": "/static/media/fetch logo.00001e926506381eb785.png",
+    "static/media/bantng-pdip.png": "/static/media/bantng-pdip.268e8dd3590c9523129f.png",
+    "static/media/redux.cjs": "/static/media/redux.7edfc461ab353f1712ab.cjs",
+    "static/media/search-gray.svg": "/static/media/search-gray.feee923890f1628aa3821eb2f1d32bbb.svg",
+    "static/media/password-hint-show.svg": "/static/media/password-hint-show.726f0d2802253a930e088acb22de5482.svg",
+    "static/media/cheveron-bottom-gray.svg": "/static/media/cheveron-bottom-gray.deb7c1403df554681acb1768625c4806.svg",
+    "index.html": "/index.html",
+    "static/media/dashboard.svg": "/static/media/dashboard.ae0357579a4d12e4ceeed55ce2ef4ac0.svg",
+    "main.86501cf0.css.map": "/static/css/main.86501cf0.css.map",
+    "main.adaf8b10.js.map": "/static/js/main.adaf8b10.js.map",
+    "249.dacbb845.chunk.js.map": "/static/js/249.dacbb845.chunk.js.map",
+    "496.ce91fc51.chunk.js.map": "/static/js/496.ce91fc51.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86501cf0.css",
+    "static/js/main.adaf8b10.js"
+  ]
+}
